@@ -1,0 +1,23 @@
+{
+  "name": "AlQuran Cloud (Digital)",
+  "description": "Widely used digital tajweed color standard",
+  "colors": {
+    "ham_wasl": "#AAAAAA",
+    "silent": "#AAAAAA",
+    "laam_shamsiyah": "#AAAAAA",
+    "madda_normal": "#537FFF",
+    "madda_permissible": "#4050FF",
+    "madda_obligatory": "#2144C1",
+    "madda_necessary": "#000EBC",
+    "qalaqah": "#DD0008",
+    "ikhafa_shafawi": "#D500B7",
+    "ikhafa": "#9400A8",
+    "idgham_shafawi": "#58B800",
+    "iqlab": "#26BFFD",
+    "idgham_ghunnah": "#169777",
+    "idgham_wo_ghunnah": "#169200",
+    "idgham_mutajanisayn": "#A1A1A1",
+    "idgham_mutaqaribayn": "#A1A1A1",
+    "ghunnah": "#FF7E1E"
+  }
+}

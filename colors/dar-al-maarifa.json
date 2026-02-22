@@ -1,0 +1,24 @@
+{
+  "name": "Dar Al-Maarifa (Standard)",
+  "description": "Traditional Mushaf Al-Tajweed color scheme",
+  "colors": {
+    "madd_2": "#DD0008",
+    "madd_246": "#DD0008",
+    "madd_6": "#DD0008",
+    "madd_muttasil": "#DD0008",
+    "madd_munfasil": "#DD0008",
+    "ghunnah": "#169777",
+    "idghaam_ghunnah": "#169777",
+    "idghaam_no_ghunnah": "#169200",
+    "idghaam_shafawi": "#58B800",
+    "idghaam_mutajaanisain": "#A1A1A1",
+    "idghaam_mutaqaaribain": "#A1A1A1",
+    "qalqalah": "#4050FF",
+    "ikhfa": "#9400A8",
+    "ikhfa_shafawi": "#D500B7",
+    "iqlab": "#FF7E1E",
+    "hamzat_wasl": "#AAAAAA",
+    "lam_shamsiyyah": "#AAAAAA",
+    "silent": "#AAAAAA"
+  }
+}

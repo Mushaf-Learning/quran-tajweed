@@ -1,0 +1,30 @@
+{
+  "name": "Colorblind Safe",
+  "description": "High-contrast palette designed for deuteranopia, protanopia, and tritanopia. Avoids red-green conflicts and uses perceptually distinct colors across all common forms of color vision deficiency.",
+  "colors": {
+    "madd_2": "#D55E00",
+    "madd_246": "#D55E00",
+    "madd_6": "#D55E00",
+    "madd_muttasil": "#D55E00",
+    "madd_munfasil": "#D55E00",
+    "ghunnah": "#009E73",
+    "idghaam_ghunnah": "#009E73",
+    "idghaam_no_ghunnah": "#0072B2",
+    "idghaam_shafawi": "#56B4E9",
+    "idghaam_mutajaanisain": "#999999",
+    "idghaam_mutaqaaribain": "#999999",
+    "qalqalah": "#0072B2",
+    "ikhfa": "#CC79A7",
+    "ikhfa_shafawi": "#882255",
+    "iqlab": "#E69F00",
+    "hamzat_wasl": "#BBBBBB",
+    "lam_shamsiyyah": "#BBBBBB",
+    "silent": "#BBBBBB"
+  },
+  "accessibility_notes": {
+    "palette_source": "Based on Wong (2011) colorblind-safe palette and IBM Design Language color-blind safe palette",
+    "deuteranopia": "No red-green pairs used adjacently; blue and orange provide primary contrast",
+    "protanopia": "Warm tones use orange (#D55E00) and yellow (#E69F00) instead of red; cool tones use distinct blues",
+    "tritanopia": "Avoids blue-yellow confusion by ensuring sufficient luminance contrast between all blue and yellow-family colors"
+  }
+}
